@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.123
 Creating a new branch is quick AND simple.
 --no-ff test
+中文输入测试
